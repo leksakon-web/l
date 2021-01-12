@@ -1,4 +1,4 @@
-inspinia-reactjs
+inspinia-reactjs mod by B$
 =====================
 
 ### Usage
